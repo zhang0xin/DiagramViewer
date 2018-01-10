@@ -1,0 +1,7 @@
+C:\Users\Administrator\AppData\Roaming\360CloudUI\Cache\145208788\云同步\开发\DiagramViewer\WindowMasker\bin\Debug\WindowMasker.exe
+C:\Users\Administrator\AppData\Roaming\360CloudUI\Cache\145208788\云同步\开发\DiagramViewer\WindowMasker\bin\Debug\WindowMasker.pdb
+C:\Users\Administrator\AppData\Roaming\360CloudUI\Cache\145208788\云同步\开发\DiagramViewer\WindowMasker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Roaming\360CloudUI\Cache\145208788\云同步\开发\DiagramViewer\WindowMasker\obj\x86\Debug\WindowMasker.exe
+C:\Users\Administrator\AppData\Roaming\360CloudUI\Cache\145208788\云同步\开发\DiagramViewer\WindowMasker\obj\x86\Debug\WindowMasker.pdb
+C:\Users\Administrator\AppData\Roaming\360CloudUI\Cache\145208788\云同步\开发\DiagramViewer\WindowMasker\obj\x86\Debug\WindowMasker.MainForm.resources
+C:\Users\Administrator\AppData\Roaming\360CloudUI\Cache\145208788\云同步\开发\DiagramViewer\WindowMasker\obj\x86\Debug\WindowMasker.csproj.GenerateResource.Cache
